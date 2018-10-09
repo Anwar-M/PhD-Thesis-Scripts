@@ -1,4 +1,4 @@
-function multi_beamforming_wingprop_rpm2
+function multi_beamforming_wingprop_selected
 % close all;
 save_data = 1;
 remdiag = 1;
