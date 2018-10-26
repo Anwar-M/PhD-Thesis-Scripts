@@ -21,7 +21,7 @@ tiz = {'I';'II';'III';'IV'};
 
 load('O:\V-Tunnel 12-12 Wing-Prop\mic_poses_optim.mat');
 mic_pos = mic_poses.';
-source_info = [-0.25 0.25 z_bf bf_freq 100];
+source_info = [-0.25*0 0.25*0 z_bf bf_freq 100];
 
 % source_info = [-0.35 0 z_bf bf_freq 100; ...
 %                -0.05 0 z_bf bf_freq 100; ...
